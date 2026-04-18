@@ -1,4 +1,4 @@
-module Flowchart
+module Flowcharter
 
 go 1.17
 

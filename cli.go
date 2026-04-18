@@ -7,7 +7,7 @@ import (
 
 	"github.com/fatih/color"
 	toml "github.com/pelletier/go-toml"
-	"github.com/FaceCrap/RenPy-Flowchart/parser"
+	"Flowcharter/parser"
 )
 
 // isFlag checks if a string is a flag (starts with a dash)

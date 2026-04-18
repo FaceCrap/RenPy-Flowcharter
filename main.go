@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"github.com/skratchdot/open-golang/open"
-	"github.com/FaceCrap/RenPy-Flowchart/parser"
+	"Flowcharter/parser"
 )
 
 func main() {
